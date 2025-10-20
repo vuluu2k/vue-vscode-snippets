@@ -193,6 +193,6 @@ These snippets are meant to provide a base scaffold for your single file compone
 
 ## Contributing
 
-This is an open source project open to anyone. Contributions are welcome [github](https://github.com/sdras/vue-vscode-snippets)
+This is an open source project open to anyone. Contributions are welcome [github](https://github.com/vuluu2k/vue-vscode-snippets)
 
 If you are contributing a snippet, please be sure to add the documentation for it in the tables in the README, the pull request cannot be accepted without this addition. Thanks!

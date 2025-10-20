@@ -1,9 +1,9 @@
 {
-  "name": "vue-vscode-snippets",
-  "displayName": "Vue VSCode Snippets",
-  "description": "Snippets that will supercharge your Vue workflow",
+  "name": "vue-snippets-vuluu2k",
+  "displayName": "Vue Snippets by vuluu2k",
+  "description": "Enhanced Vue.js snippets for faster development workflow",
   "icon": "images/vue-logo.png",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "publisher": "vuluu2k",
   "engines": {
     "vscode": "^1.14.0"
